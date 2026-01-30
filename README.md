@@ -88,9 +88,4 @@ This repository highlights the following data science concepts and skills:
 Contributions and suggestions are welcome!  
 Feel free to fork this repository, make improvements, and submit a pull request.
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it with proper attribution.
