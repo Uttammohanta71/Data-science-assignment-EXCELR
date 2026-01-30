@@ -78,7 +78,7 @@ This repository highlights the following data science concepts and skills:
 
 **UTTAM MOHANTA**
 
-- 💼 LinkedIn  
+- 💼 LinkedIn : https://www.linkedin.com/in/uttam-mohanta-67b027290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRgqbCLxnTdOJ2ozVAJL2mw%3D%3D  
 - 📧 Email: uttammohanta71@gmail.com  
 
 ---
